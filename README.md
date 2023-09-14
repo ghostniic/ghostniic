@@ -7,6 +7,7 @@
 - 🥰 Me interesso por cinema, literatura, *games* a grosso modo, moda e tecnologia — especialmente Desenvolvimento Web e Inteligência Artificial (*Machine Learning*).
 - Estou atualmente tentando "domar pítons" — aprendendo Python, *a* linguagem de programação do momento. 🐍📝
 - Adoraria colaborar em projetos relacionados a Desenvolvimento Back-End, Machine Learning e Desenvolvimento Android.🌐
+- Um completamente desnecessário *fun fact* sobre mim: meu *game* favorito atualmente é Hades, o melhor *roguelike* que eu já conheci na vida! 🎮🕹️
  
 - Não trabalho...ainda. 💼
 - ♂️ Me identifico pelos pronomes `ele/dele`.
